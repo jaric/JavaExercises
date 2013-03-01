@@ -1,0 +1,4 @@
+JavaExercises
+=============
+
+* Personal java exercises.
